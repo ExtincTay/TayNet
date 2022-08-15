@@ -12,3 +12,11 @@ p {
   color: white;
   text-align: center;
 }
+
+.kotori {
+  width: 15%;
+  height: 55%;
+  float: left;
+  position: absolute;
+  top: 440px;
+}
