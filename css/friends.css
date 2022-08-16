@@ -50,13 +50,6 @@ h2 {
   overflow: hidden;
 }
 
-h3 {
-  color: white;
-  text-align: center;
-  padding-top: 20px;
-  font-size: 30px;
-}
-
 .luxiferpfp {
   float: left;
   position: absolute;
@@ -66,13 +59,6 @@ h3 {
   width: 200px;
   border-radius: 50%;
   overflow: hidden;
-}
-
-h4 {
-  color: white;
-  text-align: center;
-  padding-top: 20px;
-  font-size: 30px;
 }
 
 .lux a {
@@ -102,13 +88,6 @@ h4 {
   overflow: hidden;
 }
 
-h5 {
-  color: white;
-  text-align: center;
-  padding-top: 20px;
-  font-size: 30px;
-}
-
 .bcgpfp {
   float: left;
   position: absolute;
@@ -118,13 +97,6 @@ h5 {
   width: 200px;
   border-radius: 50%;
   overflow: hidden;
-}
-
-h6 {
-  color: white;
-  text-align: center;
-  padding-top: 20px;
-  font-size: 30px;
 }
 
 .lorcanpfp {
@@ -138,13 +110,6 @@ h6 {
   overflow: hidden;
 }
 
-h7 {
-  color: white;
-  text-align: center;
-  padding-top: 20px;
-  font-size: 30px;
-}
-
 .wunderpfp {
   float: left;
   position: absolute;
@@ -154,11 +119,4 @@ h7 {
   width: 200px;
   border-radius: 50%;
   overflow: hidden;
-}
-
-h8 {
-  color: white;
-  text-align: center;
-  padding-top: 20px;
-  font-size: 30px;
 }
