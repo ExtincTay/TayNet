@@ -23,19 +23,15 @@ h2 {
   font-size: 30px;
 }
 
-.zukss {
-  background-color: white;
-  overflow: hidden;
-  border-radius: 30px;
-
-}
-
 .zukry a {
   color: black;
   text-align: center;
   padding: 10px 20px;
   text-decoration: none;
   font-size: 17px;
+  background-color: white;
+  overflow: hidden;
+  border-radius: 30px;
 }
 
 .zukry a:hover {
@@ -79,22 +75,36 @@ h4 {
   font-size: 30px;
 }
 
-.luxttv {
-  background-color: white;
-  overflow: hidden;
-  border-radius: 30px;
-
-}
-
 .lux a {
   color: black;
   text-align: center;
   padding: 10px 20px;
   text-decoration: none;
   font-size: 17px;
+  background-color: white;
+  overflow: hidden;
+  border-radius: 30px;
 }
 
 .lux a:hover {
   background-color: black;
   color: white;
+}
+
+.wunderpfp {
+  float: right;
+  position: absolute;
+  right: 200px;
+  top: 810px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+h5 {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
 }
