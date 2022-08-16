@@ -91,7 +91,7 @@ h4 {
   color: white;
 }
 
-.wunderpfp {
+.pyropfp {
   float: right;
   position: absolute;
   right: 200px;
@@ -103,6 +103,60 @@ h4 {
 }
 
 h5 {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.bcgpfp {
+  float: left;
+  position: absolute;
+  left: 200px;
+  top: 1030px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+h6 {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.lorcanpfp {
+  float: right;
+  position: absolute;
+  right: 200px;
+  top: 1250px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+h7 {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.wunderpfp {
+  float: left;
+  position: absolute;
+  left: 200px;
+  top: 1470px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+h8 {
   color: white;
   text-align: center;
   padding-top: 20px;
