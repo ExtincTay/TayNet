@@ -7,7 +7,7 @@ p {
   padding-right: 20px;
 }
 
-.small {
+.main {
   margin-left: 10px;
   margin-top: 10px;
   float: left;
@@ -20,7 +20,7 @@ p {
   width: 1200px;
 }
 
-.small img {
+.main img {
   float: left;
   border-radius: 50%;
   height: 30%;
@@ -49,17 +49,6 @@ h1 {
   width: 610px;
 }
 
-.sidebar iframe{
-  margin-left: 10px;
-  border-radius: 35px;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
-.sidebar::-webkit-scrollbar{
-  display: none;
-}
-
 .bottom {
   margin-left: 10px;
   margin-top: 10px;
@@ -71,4 +60,20 @@ h1 {
   border-width: medium;
   height: 280px;
   width: 1820px;
+}
+
+.bottom a {
+  color: black;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: white;
+  overflow: hidden;
+  border-radius: 30px;
+}
+
+.bottom a:hover {
+  background-color: black;
+  color: white;
 }
