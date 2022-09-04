@@ -16,14 +16,14 @@ p {
   border-style: solid;
   border-color: white;
   border-width: medium;
-  height: 600px;
+  height: 700px;
   width: 1200px;
 }
 
-.main img {
+.pfp {
   float: left;
   border-radius: 50%;
-  height: 30%;
+  height: 15%%;
   width: 15%;
   padding-left: 50px;
   padding-top: 50px;
@@ -45,8 +45,14 @@ h1 {
   border-style: solid;
   border-color: white;
   border-width: medium;
-  height: 600px;
+  height: 700px;
   width: 610px;
+}
+
+.sidebar iframe {
+  border-radius: 35px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .bottom {
@@ -58,8 +64,8 @@ h1 {
   border-style: solid;
   border-color: white;
   border-width: medium;
-  height: 280px;
-  width: 1820px;
+  height: 180px;
+  width: 1840px;
 }
 
 .bottom a {
