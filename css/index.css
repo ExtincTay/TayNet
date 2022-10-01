@@ -19,4 +19,5 @@ p {
   float: left;
   position: absolute;
   top: 440px;
+  max-width: 100%;
 }
