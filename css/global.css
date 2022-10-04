@@ -11,7 +11,6 @@ h1 {
   background-color: black;
   overflow: hidden;
   border-radius: 25px;
-
 }
 
 .topnav a {
@@ -31,4 +30,15 @@ h1 {
 .topnav a.active {
   background-color: lightblue;
   color: black;
+}
+
+@media only screen and (max-width: 768px) {
+  .topnav a.social {
+    visibility: hidden;
+    padding: 0 0;
+    font-size: 0;
+  }
+  .topnav a {
+    font-size: 16px;
+  }
 }
