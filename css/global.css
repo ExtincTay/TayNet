@@ -8,10 +8,12 @@ nav a {
   color: black;
   z-index: 3;
   opacity: 100;
+  float: left;
 }
 .main{
   font-weight: bold;
   font-size: large;
+  margin-right: 5rem;
 }
 
 @media only screen and (max-width: 768px) {
