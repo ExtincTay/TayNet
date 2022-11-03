@@ -1,44 +1,17 @@
-body {
-  background-color: #292929;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-.topnav {
-  background-color: black;
-  overflow: hidden;
-  border-radius: 25px;
-}
-
-.topnav a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 14px 20px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
+nav {
   background-color: white;
-  color: black;
+  opacity: 25%;
 }
-
-.topnav a.active {
-  background-color: lightblue;
-  color: black;
+nav.a {
+  float: left;
+  text-decoration: none;
+  color: white;
+  font-family: comfortaa;
+}
+.main{
+  font-weight: bold;
+  font-size: large;
 }
 
 @media only screen and (max-width: 768px) {
-  .topnav a.social {
-    visibility: hidden;
-    padding: 0 0;
-    font-size: 0;
-  }
-  .topnav a {
-    font-size: 16px;
-  }
 }
