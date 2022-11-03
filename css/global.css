@@ -3,10 +3,9 @@ nav {
   background-color: white;
   opacity: 25%;
 }
-nav.a {
+nav a {
   text-decoration: none;
   color: white;
-  font-family: Comfortaa;
 }
 .main{
   font-weight: bold;
