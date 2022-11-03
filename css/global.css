@@ -3,6 +3,8 @@ nav a {
   color: black;
   opacity: 100%;
   float: left;
+  padding: 10px;
+  font-weight: bold;
 }
 nav {
   background-color: white;
@@ -10,7 +12,7 @@ nav {
 }
 .main{
   font-weight: bold;
-  font-size: large;
+  font-size: x-large;
   margin-right: 20px;
   margin-left: 20px;
 }
