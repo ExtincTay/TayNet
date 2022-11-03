@@ -3,9 +3,9 @@ nav a {
   color: black;
   opacity: 100%;
   float: left;
-  padding: 10px;
+  padding: 20px;
   font-weight: bold;
-  margin-top: 20px;
+  padding-top: 20px;
 }
 nav {
   background-color: white;
@@ -14,8 +14,7 @@ nav {
 .main{
   font-weight: bold;
   font-size: x-large;
-  margin-right: 30px;
-  margin-left: 30px;
+  padding-right: 30px;
 }
 
 @media only screen and (max-width: 768px) {
