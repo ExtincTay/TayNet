@@ -5,8 +5,9 @@ nav {
 }
 nav a {
   text-decoration: none;
-  color: white;
+  color: black;
   z-index: 3;
+  opacity: 100;
 }
 .main{
   font-weight: bold;
