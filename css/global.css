@@ -4,8 +4,7 @@ nav a {
   opacity: 100%;
   float: left;
   padding: 20px;
-  font-weight: bold;
-  padding-top: 20px;
+  font-size: medium;
 }
 nav {
   background-color: white;
