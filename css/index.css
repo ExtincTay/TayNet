@@ -1,7 +1,7 @@
 body {
   background-image: linear-gradient(to bottom right, rgb(24, 236, 148), rgb(111, 98, 223), white);
-  background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .tweet {
