@@ -12,10 +12,10 @@ nav {
 .Main {
   font-weight: bold;
   font-size: large;
-  padding-top: 10px;
+  padding-top: 5px;
 }
 .Sub {
-  padding: 20px;
+  padding: 10px;
 }
 
 @media only screen and (max-width: 768px) {
