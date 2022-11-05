@@ -3,17 +3,19 @@ nav a {
   color: black;
   opacity: 100%;
   float: left;
-  padding: 10px;
   font-size: medium;
 }
 nav {
   background-color: white;
   opacity: 25%;
 }
-.main{
+.Main{
   font-weight: bold;
   font-size: x-large;
-  padding-top: -10px;
+  padding-top: 10px;
+}
+.Sub {
+  padding: 20px;
 }
 
 @media only screen and (max-width: 768px) {
