@@ -16,6 +16,9 @@ body {
   border-style: solid;
   border-radius: 25px;
   width: 30%;
+  display: block;
+  left: 50%;
+  top: 25%;
 }
 
 .pfp {
