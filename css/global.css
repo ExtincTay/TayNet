@@ -8,15 +8,6 @@ nav {
   display: block;
   left: 2%;
 }
-.Main {
-  text-decoration: none;
-  color: white;
-  display: block;
-  position: absolute;
-  top: 2%;
-  left: 2%;
-  float: left;
-}
 
 @media only screen and (max-width: 768px) {
 }
