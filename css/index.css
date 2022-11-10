@@ -5,13 +5,6 @@ body {
   background-position: -20px -20px;
 }
 
-.tweet {
-  width: 35%;
-  height: 30%;
-  padding-top: 60px;
-  max-width: 35%;
-}
-
 .pfp {
   display: block;
   margin-left: auto;
@@ -21,11 +14,6 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
-  .tweet {
-    width: 80%;
-    max-width: 80%;
-    padding-top: 30px;
-  }
   .pfp {
     width: 50%;
     max-width: 50%;
