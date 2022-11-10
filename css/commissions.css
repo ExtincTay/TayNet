@@ -11,12 +11,17 @@ h3 {
   position: absolute;
   left: 10%;
   top: 2%;
-  width: 75%;
+  width: 25%;
   margin: 20px;
   overflow: hidden;
 }
 
 .comm1 h4 {
   position: relative;
-  left: 25%;
+  margin-left: 5px;
+}
+
+.comm1 a {
+  position: relative;
+  margin-left: 5px;
 }
