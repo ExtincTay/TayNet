@@ -70,3 +70,16 @@
   position: relative;
   right: 25%;
 }
+
+.project1 a {
+  text-align: center;
+  left: 50%;
+}
+.project2 a {
+  text-align: center;
+  left: 50%;
+}
+.project3 a {
+  text-align: center;
+  left: 50%;
+}
