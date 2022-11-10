@@ -35,14 +35,17 @@
 .project1 img {
   width: 15%;
   float: right;
+  margin-left: 10px;
 }
 .project2 img {
   width: 15%;
   float: right;
+  margin-left: 10px;
 }
 .project3 img {
   width: 15%;
   float: right;
+  margin-left: 10px;
 }
 
 .project1 p {
@@ -53,4 +56,10 @@
 }
 .project3 p {
   float: right;
+}
+
+.project1 h3 {
+  float: right;
+  position: relative;
+  right: 20%;
 }
