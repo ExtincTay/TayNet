@@ -4,6 +4,7 @@
   border-color: black;
   display: block;
   position: relative;
+  float: right;
   right: 50%;
   width: 75%;
 }
@@ -13,6 +14,7 @@
   border-color: black;
   display: block;
   position: relative;
+  float: right;
   right: 50%;
   width: 75%;
 }
@@ -22,6 +24,7 @@
   border-color: black;
   display: block;
   position: relative;
+  float: right;
   right: 50%;
   width: 75%;
 }
