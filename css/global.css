@@ -3,7 +3,7 @@ nav a {
   color: black;
   display: block;
   position: relative;
-  left: 1.5%;
+  left: 2%;
   padding: 10px;
   float: left;
 }
@@ -13,7 +13,7 @@ nav a {
   display: block;
   position: relative;
   top: 2%;
-  left: 1.5%;
+  left: 2%;
   float: left;
 }
 
