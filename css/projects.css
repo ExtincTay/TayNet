@@ -5,6 +5,7 @@
   display: block;
   position: absolute;
   left: 10%;
+  top: 5%;
   width: 75%;
   margin: 20px;
   overflow: hidden;
@@ -16,6 +17,7 @@
   display: block;
   position: absolute;
   left: 10%;
+  top: 10%;
   width: 75%;
   margin: 20px;
   overflow: hidden;
@@ -27,6 +29,7 @@
   display: block;
   position: absolute;
   left: 10%;
+  top: 15%;
   width: 75%;
   margin: 20px;
   overflow: hidden;
