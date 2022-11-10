@@ -11,6 +11,7 @@ body {
 .content p {
   color: black;
   text-align: center;
+  float: left;
 }
 .text1 {
   background-image: linear-gradient(to bottom right, rgb(224, 28, 87), rgb(230, 149, 27));
