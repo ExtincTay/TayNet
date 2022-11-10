@@ -10,7 +10,7 @@ body {
 }
 .content p {
   color: black;
-  transform: translate(-50%, 0); 
+  transform: translate(-25%, 0); 
 }
 .text1 {
   background-image: linear-gradient(to bottom right, rgb(224, 28, 87), rgb(230, 149, 27));
