@@ -8,6 +8,7 @@ nav {
   float: left;
   display: block;
   left: 2%;
+  z-index: 1;
 }
 
 @media only screen and (max-width: 768px) {

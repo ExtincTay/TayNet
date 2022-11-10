@@ -6,6 +6,7 @@ body {
 }
 .content {
   left: 50%;
+  z-index: 2;
 }
 .content p {
   color: black;
@@ -17,6 +18,7 @@ body {
   border-radius: 25px;
   width: 30%;
   display: block;
+  position: relative;
   left: 50%;
   top: 25%;
 }
