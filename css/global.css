@@ -10,10 +10,13 @@ nav a {
   padding: 10px;
   font-size: medium;
   margin-left: 0;
-  transition: margin-left 2s;
+  margin-right: 0;
+  transition: margin-left 1s;
+  transition: marhin-right 1s;
 }
 nav a:hover {
   margin-left: 10px;
+  margin-right: -10px;
 }
 nav {
   float: left;
