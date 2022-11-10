@@ -3,9 +3,9 @@ nav a {
   color: black;
   display: block;
   position: relative;
-  top: 5%;
-  left: 2.5;
+  left: 1.5%;
   padding: 10px;
+  float: left;
 }
 .Main {
   text-decoration: none;
