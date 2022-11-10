@@ -5,9 +5,12 @@ nav a {
   font-size: medium;
 }
 nav {
-  background-color: rgba(255, 255, 255, 0.2)
+  background-color: rgba(255, 255, 255, 0)
 }
 .Main {
+  text-decoration: none;
+  color: black;
+  float: left;
   font-weight: bold;
   font-size: large;
   padding-top: 5px;
