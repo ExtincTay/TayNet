@@ -13,6 +13,8 @@ body {
 .text1 {
   background-color: linear-gradient(rgb(96,240,180), rgb(136, 231, 12));
   border-color: black;
+  border-style: solid;
+  border-radius: 25px;
 }
 
 .pfp {
