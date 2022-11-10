@@ -1,8 +1,14 @@
 body {
-  background: black;
-  background-image: radial-gradient(white 2px, transparent 0);
+  background: white;
+  background-image: radial-gradient(black 2px, transparent 0);
   background-size: 40px 40px;
   background-position: -20px -20px;
+}
+.content {
+  left: 50%;
+}
+.content p {
+  color: black;
 }
 
 .pfp {
