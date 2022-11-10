@@ -10,6 +10,7 @@ body {
 }
 .content p {
   color: black;
+  transform: translate(-50%, 0); 
 }
 .text1 {
   background-image: linear-gradient(to bottom right, rgb(224, 28, 87), rgb(230, 149, 27));
@@ -21,6 +22,7 @@ body {
   position: relative;
   left: 30%;
   top: 40%;
+  text-align: center;
 }
 .pfp {
   display: block;
