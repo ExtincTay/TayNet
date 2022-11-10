@@ -26,7 +26,6 @@
   position: relative;
   left: 10%;
   width: 75%;
-  height: 100%;
   margin: 20px;
 }
 
@@ -46,30 +45,17 @@
   margin-right: 10px;
 }
 
-.project1 p {
-  float: right;
-}
-.project2 p {
-  float: right;
-}
-.project3 p {
-  float: right;
-}
-
 .project1 h3 {
-  float: right;
   position: relative;
-  right: 25%;
+  left: 25%;
 }
 .project2 h3 {
-  float: right;
   position: relative;
-  right: 25%;
+  left: 25%;
 }
 .project3 h3 {
-  float: right;
   position: relative;
-  right: 25%;
+  left: 25%;
 }
 
 .project1 a {
