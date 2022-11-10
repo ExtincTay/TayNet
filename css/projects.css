@@ -67,12 +67,24 @@
 .project1 a {
   text-align: center;
   left: 50%;
+  text-decoration: none;
+  background-color: aqua;
+  color: black;
+  border-radius: 25px;
 }
 .project2 a {
   text-align: center;
   left: 50%;
+  text-decoration: none;
+  background-color: aqua;
+  color: black;
+  border-radius: 25px;
 }
 .project3 a {
   text-align: center;
   left: 50%;
+  text-decoration: none;
+  background-color: aqua;
+  color: black;
+  border-radius: 25px;
 }
