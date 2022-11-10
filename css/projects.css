@@ -25,3 +25,16 @@
   right: 50%;
   width: 75%;
 }
+
+.project1 img {
+  width: 15%;
+  float: right;
+}
+.project2 img {
+  width: 15%;
+  float: right;
+}
+.project3 img {
+  width: 15%;
+  float: right;
+}
