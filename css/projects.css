@@ -4,7 +4,6 @@
   border-color: black;
   display: block;
   position: relative;
-  float: right;
   right: 30%;
   width: 75%;
   margin: 20px;
@@ -15,7 +14,6 @@
   border-color: black;
   display: block;
   position: relative;
-  float: right;
   right: 30%;
   width: 75%;
   margin: 20px;
@@ -26,7 +24,6 @@
   border-color: black;
   display: block;
   position: relative;
-  float: right;
   right: 30%;
   width: 75%;
   margin: 20px;
@@ -61,5 +58,15 @@
 .project1 h3 {
   float: right;
   position: relative;
-  right: 20%;
+  right: 25%;
+}
+.project2 h3 {
+  float: right;
+  position: relative;
+  right: 25%;
+}
+.project3 h3 {
+  float: right;
+  position: relative;
+  right: 25%;
 }
