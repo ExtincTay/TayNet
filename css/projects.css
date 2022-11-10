@@ -17,7 +17,7 @@
   display: block;
   position: absolute;
   left: 10%;
-  top: 32%;
+  top: 22%;
   width: 75%;
   margin: 20px;
   overflow: hidden;
@@ -71,6 +71,7 @@
   background-color: aqua;
   color: black;
   border-radius: 25px;
+  padding: 5px;
 }
 .project2 a {
   text-align: center;
@@ -79,6 +80,7 @@
   background-color: aqua;
   color: black;
   border-radius: 25px;
+  padding: 5px;
 }
 .project3 a {
   text-align: center;
@@ -87,4 +89,5 @@
   background-color: aqua;
   color: black;
   border-radius: 25px;
+  padding: 5px;
 }
