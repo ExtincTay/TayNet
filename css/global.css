@@ -3,6 +3,11 @@ nav a {
   color: black;
   padding: 10px;
   font-size: medium;
+  margin-left: 0;
+  transition: margin-left 2s;
+}
+nav a:hover {
+  margin-left: 10px;
 }
 nav {
   float: left;
