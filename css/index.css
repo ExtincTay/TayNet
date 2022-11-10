@@ -21,13 +21,13 @@ body {
   display: block;
   position: relative;
   left: 40%;
-  margin-top: 20px;
+  margin-top: 10px;
   text-align: center;
 }
 .pfp {
   display: block;
   position: relative;
-  left: 40%;
+  left: 30%;
   top: 10%;
   width: 15%;
   height: 15%;
