@@ -7,6 +7,7 @@
   float: right;
   right: 30%;
   width: 75%;
+  margin: 20px;
 }
 .project2 {
   border-radius: 25px;
@@ -17,6 +18,7 @@
   float: right;
   right: 30%;
   width: 75%;
+  margin: 20px;
 }
 .project3 {
   border-radius: 25px;
@@ -27,6 +29,7 @@
   float: right;
   right: 30%;
   width: 75%;
+  margin: 20px;
 }
 
 .project1 img {
@@ -39,5 +42,15 @@
 }
 .project3 img {
   width: 15%;
+  float: right;
+}
+
+.project1 p {
+  float: right;
+}
+.project2 p {
+  float: right;
+}
+.project3 p {
   float: right;
 }
