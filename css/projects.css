@@ -10,6 +10,7 @@
   margin: 20px;
   overflow: hidden;
   font-family: Comfortaa;
+  background-image: linear-gradient(to bottom right, rgb(48, 173, 231), rgb(149, 25, 221));
 }
 .project2 {
   border-radius: 25px;
@@ -23,6 +24,7 @@
   margin: 20px;
   overflow: hidden;
   font-family: Comfortaa;
+  background-image: linear-gradient(to bottom right, rgb(48, 173, 231), rgb(149, 25, 221))
 }
 .project3 {
   border-radius: 25px;
@@ -36,6 +38,7 @@
   margin: 20px;
   overflow: hidden;
   font-family: Comfortaa;
+  background-image: linear-gradient(to bottom right, rgb(48, 173, 231), rgb(149, 25, 221))
 }
 
 .project1 img {
