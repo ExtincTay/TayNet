@@ -27,3 +27,10 @@ h3 {
   position: relative;
   margin-left: 15px;
 }
+
+@media only screen and (max-width: 768px) {
+  .comm1 {
+    left: 30%;
+    width: 40%;
+  }
+}
