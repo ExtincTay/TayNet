@@ -4,7 +4,8 @@
 }
 .content p {
   color: black;
-  transform: translate(-15%, 0); 
+  transform: translate(-15%, 0);
+  font-family: Comfortaa;
 }
 .text1 {
   background-image: linear-gradient(to bottom right, rgb(224, 28, 87), rgb(230, 149, 27));
