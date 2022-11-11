@@ -32,5 +32,13 @@
   .pfp {
     width: 50%;
     max-width: 50%;
+    left: 0;
+    right: 30%
+  }
+  .text1 {
+    left: 0;
+    right: 30%;
+    width: 50%;
+    max-width: 50%;
   }
 }
