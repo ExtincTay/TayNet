@@ -30,7 +30,11 @@ h3 {
 
 @media only screen and (max-width: 768px) {
   .comm1 {
-    left: 30%;
-    width: 40%;
+    left: 35%;
+    width: 50%;
+    top: 7%;
+  }
+  .comm1 p {
+    margin-right: 15px;
   }
 }
