@@ -1,6 +1,5 @@
 .content {
   left: 50%;
-  z-index: 2;
 }
 .content p {
   color: black;
@@ -17,6 +16,7 @@
   left: 40%;
   margin-top: 10px;
   text-align: center;
+  z-index: 3;
 }
 .pfp {
   display: block;
@@ -25,6 +25,7 @@
   top: 15%;
   width: 15%;
   height: 15%;
+  z-index: 3;
 }
 
 @media only screen and (max-width: 768px) {

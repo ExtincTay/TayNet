@@ -2,6 +2,7 @@ h3 {
   top: 20px;
   text-align: center;
   font-family: Comfortaa;
+  z-index: 3;
 }
 
 .comm1 {
@@ -15,6 +16,7 @@ h3 {
   width: 25%;
   margin: 20px;
   font-family: Comfortaa;
+  z-index: 3;
 }
 
 .comm1 h4 {
