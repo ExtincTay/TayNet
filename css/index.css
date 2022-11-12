@@ -2,12 +2,12 @@
   left: 50%;
 }
 .content p {
-  color: white;
+  color: black;
   font-family: Comfortaa;
 }
 .text1 {
   background-image: linear-gradient(to bottom right, rgb(224, 28, 87), rgb(230, 149, 27));
-  border-color: black;
+  border-color: white;
   border-style: solid;
   border-radius: 25px;
   width: 20%;
