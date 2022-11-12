@@ -1,12 +1,12 @@
 body {
-  background: white;
-  background-image: radial-gradient(black 2px, transparent 0);
+  background: black;
+  background-image: radial-gradient(purple 2px, transparent 0);
   background-size: 40px 40px;
   background-position: -20px -20px;
 }
 nav a {
   text-decoration: none;
-  color: black;
+  color: white;
   padding: 10px;
   font-size: medium;
   margin-left: 0;
@@ -31,7 +31,7 @@ h2 {
   z-index: 2;
   top: 0%;
   right: 1%;
-  color: black;
+  color: white;
   font-family: Comfortaa;
 }
 @font-face {
