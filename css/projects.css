@@ -3,6 +3,8 @@
   flex-wrap: wrap;
   justify-content: center;
   font-family: Comfortaa;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 .project {
   flex: 25%;
