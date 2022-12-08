@@ -3,8 +3,9 @@
   flex-wrap: wrap;
   justify-content: center;
   font-family: Comfortaa;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
 }
 .project {
   flex: 25%;
@@ -12,10 +13,11 @@
   border-radius: 25px;
   border-style: solid;
   border-color: white;
-  width: 50%;
-  height: 20%;
-  margin: 20px;
+  width: auto;
+  height: auto;
+  margin: 10px;
   overflow: hidden;
+  padding: 20px;
   text-align: center;
   background-image: linear-gradient(to bottom right, rgb(48, 173, 231), rgb(149, 25, 221));
 }
@@ -31,7 +33,15 @@
   background-color: aqua;
   color: white;
   border-radius: 25px;
-  padding: 5px;
+  border: solid gray 0;
+  padding: 10px;
+  font-size: medium;
+  transition: all 500ms;
+}
+.project a:hover {
+  background-color: white;
+  color: black;
+  border: solid gray 2px;
 }
 
 @media only screen and (max-width: 768px) {
