@@ -1,0 +1,19 @@
+.content {
+    left: 50%;
+    font-family: Comfortaa;
+}
+.title1 {
+    background-image: linear-gradient(to bottom right, rgb(224, 28, 87), rgb(230, 149, 27));
+    border-color: white;
+    border-style: solid;
+    border-radius: 25px;
+    width: 20%;
+    display: block;
+    position: relative;
+    left: 50%;
+    margin-top: 15px;
+    text-align: center;
+    transform: translate(-50%, 0px);
+}
+@media only screen and (max-width: 768px) {
+}
