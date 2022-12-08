@@ -1,6 +1,6 @@
 .project-holder {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: center;
   border-radius: 25px;
   border-style: solid;
