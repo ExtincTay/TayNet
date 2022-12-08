@@ -12,58 +12,20 @@
   font-family: Comfortaa;
   background-image: linear-gradient(to bottom right, rgb(48, 173, 231), rgb(149, 25, 221));
 }
-.project1 {flex: 25%;}
-.project2 {flex: 25%;}
-.project3 {flex: 25%;}
-
-.project1 img {
+.project {
+  flex: 25%;
+  margin: auto;
+}
+.project img {
   width: 20%;
   float: left;
   margin-right: 10px;
 }
-.project2 img {
-  width: 20%;
-  float: left;
-  margin-right: 10px;
-}
-.project3 img {
-  width: 20%;
-  float: left;
-  margin-right: 10px;
-}
-
-.project1 h3 {
+.project h3 {
   position: relative;
   left: 25%;
 }
-.project2 h3 {
-  position: relative;
-  left: 25%;
-}
-.project3 h3 {
-  position: relative;
-  left: 25%;
-}
-
-.project1 a {
-  text-align: center;
-  left: 50%;
-  text-decoration: none;
-  background-color: aqua;
-  color: white;
-  border-radius: 25px;
-  padding: 5px;
-}
-.project2 a {
-  text-align: center;
-  left: 50%;
-  text-decoration: none;
-  background-color: aqua;
-  color: white;
-  border-radius: 25px;
-  padding: 5px;
-}
-.project3 a {
+.project a {
   text-align: center;
   left: 50%;
   text-decoration: none;
@@ -74,49 +36,4 @@
 }
 
 @media only screen and (max-width: 768px) {
-  .project1 {
-    left: 30%;
-    width: 60%;
-    height: 35%;
-    top: 2%;
-  }
-  .project2 {
-    left: 30%;
-    width: 60%;
-    height: 38%;
-    top: 40%;
-  }
-  .project3 {
-    left: 30%;
-    width: 60%;
-    height: 30%;
-    top: 71%;
-  }
-  .project1 h3 {
-    left: 15%;
-  }
-  .project2 h3 {
-    left: 15%;
-  }
-  .project3 h3 {
-    left: 10%;
-  }
-  .project1 a {
-    margin-left: 5px;
-  }
-  .project2 a {
-    margin-left: 5px;
-  }
-  .project3 a {
-    margin-left: 5px;
-  }
-  .project1 img {
-    width: 25%;
-  }
-  .project2 img {
-    width: 25%;
-  }
-  .project3 img {
-    width: 25%;
-  }
 }
