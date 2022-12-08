@@ -19,7 +19,7 @@
   transform: translate(-50%, 0px);
 }
 .text2 {
-  background-image: linear-gradient(to bottom right, rgb(223, 110, 144)rgb(101, 230, 27));
+  background-image: linear-gradient(to bottom right, rgb(223, 110, 144), rgb(101, 230, 27));
   border-color: white;
   border-style: solid;
   border-radius: 25px;
