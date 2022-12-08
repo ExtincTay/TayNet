@@ -3,7 +3,6 @@
   flex-wrap: wrap;
   justify-content: center;
   font-family: Comfortaa;
-  background-image: linear-gradient(to bottom right, rgb(48, 173, 231), rgb(149, 25, 221));
 }
 .project {
   flex: 25%;
@@ -16,6 +15,7 @@
   margin: 20px;
   overflow: hidden;
   text-align: center;
+  background-image: linear-gradient(to bottom right, rgb(48, 173, 231), rgb(149, 25, 221));
 }
 .project img {
   width: 20%;
