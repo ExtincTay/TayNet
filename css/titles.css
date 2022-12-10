@@ -1,17 +1,28 @@
 .content {
     left: 50%;
     font-family: Comfortaa;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-top: 20px;
 }
 .title1 {
+    flex: 10%;
     background-image: linear-gradient(to bottom right, rgb(224, 28, 87), rgb(230, 149, 27));
     border-color: white;
     border-style: solid;
     border-radius: 25px;
     width: 20%;
-    display: block;
-    position: relative;
-    left: 50%;
-    margin-top: 15px;
+    text-align: center;
+    transform: translate(-50%, 0px);
+}
+.title2 {
+    flex: 10%;
+    background-image: linear-gradient(to bottom right, rgb(241, 105, 146), rgb(101, 230, 27));
+    border-color: white;
+    border-style: solid;
+    border-radius: 25px;
+    width: 20%;
     text-align: center;
     transform: translate(-50%, 0px);
 }
