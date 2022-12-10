@@ -10,24 +10,22 @@
 }
 .title1 {
     flex: 10%;
-    margin: auto;
+    margin: 20px;
     background-image: linear-gradient(to bottom right, rgb(224, 28, 87), rgb(230, 149, 27));
     border-color: white;
     border-style: solid;
     border-radius: 25px;
-    width: 20%;
     text-align: center;
     width: auto;
     height: auto;
 }
 .title2 {
     flex: 10%;
-    margin: auto;
+    margin: 20px;
     background-image: linear-gradient(to bottom right, rgb(241, 105, 146), rgb(101, 230, 27));
     border-color: white;
     border-style: solid;
     border-radius: 25px;
-    width: 20%;
     text-align: center;
     width: auto;
     height: auto;
